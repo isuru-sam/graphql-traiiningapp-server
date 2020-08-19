@@ -7,3 +7,8 @@ prisma www.prisma.io
 hasura www.hasura.io
 apolloserver   https://www.apollographql.com/docs/apollo-server/
 graphql-yoga
+
+https://stackoverflow.com/questions/59211666/how-to-use-localstorage-with-apollo-client-and-reactjs
+
+https://github.com/yucigou/graphql-local-state-management
+https://github.com/apollographql/apollo-cache-persist
